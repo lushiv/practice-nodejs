@@ -14,3 +14,6 @@
  ## StreamPipes
 
  ## StreamsAnBuffer
+
+ ## MongoDB
+ - `npm i mongoose`
